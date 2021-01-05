@@ -1,3 +1,9 @@
+ignition-gui4 (4.1.1-1~bionic) bionic; urgency=medium
+
+  * ignition-gui4 4.1.1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Tue, 05 Jan 2021 14:59:23 -0800
+
 ignition-gui4 (4.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui4 4.1.0-1 release
