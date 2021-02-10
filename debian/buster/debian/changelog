@@ -1,3 +1,9 @@
+ignition-gui4 (4.2.0-1~buster) buster; urgency=medium
+
+  * ignition-gui4 4.2.0-1 release
+
+ -- Ashton Larkin <ashton@openrobotics.org>  Tue, 09 Feb 2021 20:34:42 -0500
+
 ignition-gui4 (4.1.1-1~buster) buster; urgency=medium
 
   * ignition-gui4 4.1.1-1 release
